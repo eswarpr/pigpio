@@ -21,3 +21,4 @@ DOC/tmp
 DOC/MAN/*
 !DOC/MAN/README*
 DOC/HTML/*.html
+cmake-build-debug/
